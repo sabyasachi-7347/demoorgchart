@@ -1,5 +1,7 @@
 {
   "name": "modaleexample",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
